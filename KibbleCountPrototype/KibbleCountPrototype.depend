@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455600556 source:/Users/Maddie/Desktop/C++/KibbleCountPrototype/main.cpp
+	<iostream>
+	"KibbleCount.cpp"
+
+1455600580 /Users/Maddie/Desktop/C++/KibbleCountPrototype/KibbleCount.cpp
+	<iostream>
+

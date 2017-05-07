@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1455658056 source:/Users/Maddie/Desktop/C++/GlobalVarInHeader/main.cpp
+	<iostream>
+	"sharealike.h"
+	"DoubleCheeseburgers.cpp"
+
+1455657186 /Users/Maddie/Desktop/C++/GlobalVarInHeader/sharealike.h
+
+1455657736 /Users/Maddie/Desktop/C++/GlobalVarInHeader/DoubleCheeseburgers.cpp
+	<iostream>
+	"sharealike.h"
+
