@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455855598 source:/Users/Maddie/Desktop/C++/EatCookies/main.cpp
+	<iostream>
+
+1455854830 /Users/Maddie/Desktop/C++/EatCookies/EatCookies.h
+	<iostream>
+
